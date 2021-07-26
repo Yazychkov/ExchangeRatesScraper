@@ -1,0 +1,9 @@
+settings.py
+env/
+../venv/
+Driver_Notes/
+msedgedriver.exe
+.exe
+test.xlsx
+.xlsx
+.idea
